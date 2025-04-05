@@ -1,6 +1,8 @@
 # 💫 About Me:
 👋 Hello World, I'm krishanth!<br><br>🎓 I'm an enthusiastic and passionate software developer, currently pursuing my studies at KIU University, Sri Lanka.  <br>💡 I love building innovative and meaningful projects using technologies like **Java**, **Spring Boot**, **Angular**, **React**, and **MySQL**.  <br>🚀 I'm on a journey to become a full-stack developer, always learning and exploring new tech every day.  <br>🌱 Currently working on projects in **Web Development**, **Machine learning**, and **Nural Networks**.  <br>💬 I enjoy collaborating on projects, solving real-world problems, and sharing knowledge with others.  <br>📫 Let's connect and grow together!<br><br>---<br><br>🚀 Tech Stack  <br>💻 Java | Spring Boot | REST APIs  <br>🌐 Angular | React | HTML | CSS | JavaScript  <br>🗃️ MySQL | MongoDB    <br>🛠️ Git | GitHub | VS Code  <br><br>---<br><br>📍 *“Code is like humor. When you have to explain it, it’s bad.”*<br><br>
 
+<a href="https://kishan-ctrl.github.io/portfolio/">My Portfolio</a>
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ki__shann) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/krishanth-shan-22aa972a1/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@krishanshanshan1) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:krishanshanshan1@gmail.com) 
